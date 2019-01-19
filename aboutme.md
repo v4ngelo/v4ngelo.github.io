@@ -13,7 +13,7 @@ Hi! My name is Anabella. You might want to know some things about me:
 - I'm a fan of Jocko Willink, his [podcast](http://jockopodcast.com/) and [book](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
 
 ### my history
-At seventeen, I moved from my hometown to La Plata, for studying. Here, I found my profession and 
+At seventeen, I moved from my hometown to La Plata for studying. Here I found my profession and 
 lots of friends.
 
 Now I rock with my teammates at [uBiome](ubiome.com)
