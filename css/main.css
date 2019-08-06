@@ -782,3 +782,15 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/** Specific CSS - My own */
+.tools-images {
+  float: left;
+  width: 120px;
+  margin: 25px;
+}
+
+.tools-text{
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  height: 100px;
+}
