@@ -214,6 +214,7 @@ img {
 .container-fluid  {
   padding-left: max(15px, env(safe-area-inset-left));
   padding-right: max(15px, env(safe-area-inset-right));
+  margin: 10px !important;
 }
 
 /* Multi-level navigation links */
@@ -739,7 +740,6 @@ td.gutter {
 }
 
 /* Fix table border github gist snippets */
-
 .gist, .gist-file table tr {
   border: unset;
 }
